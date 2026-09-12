@@ -73,4 +73,20 @@ The project can also be deployed through a static hosting service such as GitHub
 
 This project represents an early stage of my front-end development studies, focused on building a solid understanding of the web platform before moving on to more advanced technologies.
 
-As my skills evolve, later projects in my portfolio introduce concepts such as **CS**
+As my skills evolve, later projects in my portfolio introduce concepts such as CSS, responsive layouts, JavaScript, APIs and modern front-end frameworks.
+
+🔮 Possible Improvements
+
+Future iterations of this project could include:
+
+Responsive design for mobile devices
+Semantic HTML5 structure
+External CSS styling
+Form validation
+Functional form submission
+Improved accessibility
+Modern layout using Flexbox and CSS Grid
+JavaScript-based interactions
+👨‍💻 About
+
+This repository is part of my web development learning portfolio and demonstrates my progression from fundamental HTML concepts toward modern front-end development.
