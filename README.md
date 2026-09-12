@@ -62,7 +62,7 @@ The project has no dependencies or build process.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Projeto-Final.git
+git clone https://github.com/Blxck-2001/UNES---University-Website.git
 ```
 
 Open `index.html` in a web browser to run the website locally.
